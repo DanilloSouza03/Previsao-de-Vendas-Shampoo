@@ -1,5 +1,7 @@
 # Previsao de Vendas Shampoo 📈
- Previsão de Vendas de Shampoo no Google Planilhas. Exploração de Tendências Lineares e Exponenciais para Insights. 💡
+ Previsão de Vendas de Shampoo no Google Planilhas. Exploração de Tendências Lineares e Exponenciais para Insights. 💡 <br>
+ Link para [Projeto](https://docs.google.com/spreadsheets/d/1gGjZ1t4QDb8jGPYXssleO6OL_DtAWQHw8aQbjLYMeGI/edit?usp=sharing).
+
 
 <details>
   <summary><b>📁 Estrutura do Repositório</b></summary>
